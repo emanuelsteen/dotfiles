@@ -1,0 +1,17 @@
+[color]
+    diff = auto
+
+[alias]
+    st = status
+    up = pull --rebase
+
+[user]
+    name = Emanuel Steen
+    email = emanuel.steen@gemalto.com
+
+[diff]
+    tool = meld
+
+[push]
+    default = simple
+
