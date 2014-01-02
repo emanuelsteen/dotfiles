@@ -1,5 +1,6 @@
 [color]
     diff = auto
+    grep = auto
 
 [alias]
     st = status
