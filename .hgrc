@@ -1,0 +1,26 @@
+[ui]
+username = Emanuel Steen <emanuel.steen@gemalto.com>
+
+[extensions]
+graphlog=
+rebase=
+color=
+strip=
+pager=
+convert=
+mercurial_keyring=
+record=
+
+[http_proxy]
+host =
+no = 10.160.112.191,vge1hg.gemalto.com,sin2hg.gemalto.com
+
+[https_proxy]
+host =
+
+[web]
+cacerts = ~/ca-gemalto-and-public.pem
+
+[pager]
+pager = less -FRX
+
