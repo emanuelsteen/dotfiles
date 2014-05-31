@@ -2,6 +2,7 @@
 ! background: none
 menu.title.font: serif-12:regular
 window.font: sans-12:bold
+window.title.height: 25
 toolbar.workspace.font: sans-12:regular
 toolbar.clock.font: sans-12:regular
 toolbar.iconbar.focused.font: sans-12:bold
