@@ -7,6 +7,9 @@
 [alias]
     st = status
     up = pull --rebase
+    lg = log --graph
+    ls = ls-files
+    f = fetch -p
 
 [user]
     name = Emanuel Steen
